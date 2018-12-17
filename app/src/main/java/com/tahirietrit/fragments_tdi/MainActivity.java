@@ -18,6 +18,8 @@ public class MainActivity extends FragmentActivity {
 
         System.out.println("i added this");
 
+        System.out.println("added anther one");
+
     }
 
 
